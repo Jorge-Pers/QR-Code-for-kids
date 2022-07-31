@@ -1,7 +1,5 @@
 # QR-Code-for-kids
 
-Generate  a QR code for a kid and save it in the Desktop.
-
 The program offers 2 options:
 -kids less than 2 years old = M
 -kids equal or over 2 years old = Y
